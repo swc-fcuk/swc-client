@@ -4,9 +4,8 @@
   "repository": "https://github.com/swc-fcuk/swc-client/",
   "logo": "http://swc-client.herokuapp.com/node.svg",
   "keywords": [
-    "node",
-    "express",
-    "static"
+    "swc",
+    "client"
   ],
   "image": "heroku/nodejs"
 }
