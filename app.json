@@ -1,0 +1,12 @@
+{
+  "name": "swc-client",
+  "description": "swc-client",
+  "repository": "https://github.com/swc-fcuk/swc-client/",
+  "logo": "http://swc-client.herokuapp.com/node.svg",
+  "keywords": [
+    "node",
+    "express",
+    "static"
+  ],
+  "image": "heroku/nodejs"
+}
